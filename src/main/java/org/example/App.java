@@ -23,6 +23,7 @@ public class App {
         System.out.println(":::                                                :::");
         System.out.println(":::       Socket Application  Process Start        :::");
         System.out.println(":::                                                :::");
+        build error test!!
 
         try(ServerSocket server = new ServerSocket(PORT_NUMBER)){
             while(true){
